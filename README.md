@@ -16,7 +16,7 @@ Mình đang theo đuổi mảng Computer Vision và AI tại [Titkul AI](https:/
 
 [📘 Facebook](https://www.facebook.com/nguyen.duc.tan999/)
 
-[🌍 Website](https://www.facebook.com/nguyen.duc.tan999/)
+[🌍 Website](https://www.facebook.com/nguyen.duc.tan999/) [still update]
 
 [✉️ Email](mailto:nguyenductan998@gmail.com)
 
