@@ -18,7 +18,7 @@ Mình đang theo đuổi mảng Computer Vision và AI tại [Titkul AI](https:/
 [![Donate](https://img.shields.io/badge/BuyMe-ACoffee-green)]()
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ductandev&layout=compact)](#)
-## Đây là vài cái thống kê gì đấy trên github 😋
+## Đây là một vài thống kê trên github 😋
 [![ductandev's github stats](https://github-readme-stats.vercel.app/api?username=ductandev&show_icons=true&theme=default)](https://github.com/ductandev/)
 ## Đây là thông tin liên hệ 📣
 [📱 0908246133](https://tel:+84908246133)
