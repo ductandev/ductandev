@@ -6,7 +6,7 @@ Mình đang theo đuổi mảng Computer Vision và AI tại [Titkul AI](https:/
 
 Đam mê của mình là cố gắng thực hiện đam mê 💖
 
-Đây là CV của mình [Nguyen Duc Tan](https://www.facebook.com/nguyen.duc.tan999/)
+Đây là CV của mình [Nguyen Duc Tan](https://www.facebook.com/nguyen.duc.tan999/) [Still update]
 ## Đây là một số thứ có trên github của mình 😎
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fulloption1998&layout=compact)](#)
 ## Đây là vài cái thống kê gì đấy trên github 😋
