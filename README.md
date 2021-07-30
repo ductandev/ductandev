@@ -19,3 +19,5 @@ Mình đang theo đuổi mảng Computer Vision và AI tại [Titkul AI](https:/
 [🌍 Website](https://www.facebook.com/nguyen.duc.tan999/)
 
 [✉️ Email](mailto:nguyenductan998@gmail.com)
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=ductandev&label=Profile%20views&color=0e75b6&style=flat" alt="ductandev" /> </p>
