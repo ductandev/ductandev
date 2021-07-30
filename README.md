@@ -17,7 +17,6 @@ Mình đang theo đuổi mảng Computer Vision và AI tại [Titkul AI](https:/
 [<img alt="ductandev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] |
 [![Donate](https://img.shields.io/badge/BuyMe-ACoffee-green)]()
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ductandev&layout=compact)](#)
 ## Đây là một vài thống kê trên github 😋
 [![ductandev's github stats](https://github-readme-stats.vercel.app/api?username=ductandev&show_icons=true&theme=default)](https://github.com/ductandev/)
