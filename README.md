@@ -6,7 +6,7 @@ Mình đang theo đuổi mảng Computer Vision và AI tại [Titkul AI](https:/
 
 Đam mê của mình là cố gắng thực hiện đam mê 💖
 
-Đây là CV của mình [Nguyen Duc Tan](https://www.facebook.com/nguyen.duc.tan999/) <a>####[Still update]</a>
+Đây là CV của mình [Nguyen Duc Tan](https://www.facebook.com/nguyen.duc.tan999/) <a>[Still update]</a>
 ## Đây là một số thứ có trên github của mình 😎
 ![](https://img.shields.io/badge/-Python-333?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-C/C++-c14438?style=flat-square&logo=C&logoColor=fff)
