@@ -15,7 +15,7 @@ Mình đang theo đuổi mảng Computer Vision và AI tại [Titkul AI](https:/
 [<img alt="aicurious.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img alt="ductandev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img alt="ductandev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] |
-[![Donate](https://img.shields.io/badge/BuyMe-ACoffee-green)](https://aicurious.io/donation/)
+[![Donate](https://img.shields.io/badge/BuyMe-ACoffee-green)]()
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ductandev&layout=compact)](#)
 ## Đây là vài cái thống kê gì đấy trên github 😋
