@@ -1,4 +1,4 @@
-# Hi chào cậu 👋
+# Hi 👋 I'm Nguyen Duc Tan
 
 Mình là Nguyễn Đức Tấn. Mình là cựu sinh viên khóa K-12 [ĐH Công Nghiệp - TPHCM](http://iuh.edu.vn/) 💼
 
