@@ -1,5 +1,4 @@
-# Hi 👋, I'm Duc Tan.
-
+# Hi 👋, I'm Duc Tan.<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/>
 Mình là Nguyễn Đức Tấn. Mình là cựu sinh viên khóa K-12 [ĐH Công Nghiệp - TPHCM](http://iuh.edu.vn/) 💼
 
 Mình đang theo đuổi mảng Computer Vision và AI tại [Titkul AI](https://titkul.com/) 💻
