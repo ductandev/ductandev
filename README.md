@@ -40,3 +40,4 @@ Mình đang theo đuổi mảng Computer Vision và AI tại [Titkul AI](https:/
 </p>
 
 <!-- https://github.com/ductandev/ductandev/blob/output/github-contribution-grid-snake.gif?raw=true -->
+
