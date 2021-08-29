@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/42485856/131239088-28572d00-1bfe-464e-9fe0-3575a6933c2a.png)
+![image](https://user-images.githubusercontent.com/42485856/131239104-31e05038-5e10-4ae5-9c59-eb19b039e607.png)
 
 # Hi 👋, I'm Duc Tan.<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/>
 Mình là Nguyễn Đức Tấn. Mình là cựu sinh viên khóa K-12 [ĐH Công Nghiệp - TPHCM](http://iuh.edu.vn/) 💼
