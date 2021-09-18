@@ -10,6 +10,7 @@ Mình đang theo đuổi mảng Computer Vision và AI tại [Titkul AI](https:/
 Đây là CV của mình [Nguyen Duc Tan](https://drive.google.com/file/d/1Whkj0-S1odgU8y7RGcXeXHUJGVW6LK86/view?usp=sharing)
 
 ![](https://img.shields.io/badge/-Python-333?style=flat-square&logo=Python&logoColor=fff)
+![](https://img.shields.io/badge/Docker%20build%F0%9F%90%B3%F0%9F%90%B3-Docker%20%F0%9F%90%B3%F0%9F%90%B3-blue)
 ![](https://img.shields.io/badge/-C/C++-c14438?style=flat-square&logo=C&logoColor=fff)
 ![](https://img.shields.io/badge/-PyTorch-e34f26?style=flat-square&logo=PyTorch&logoColor=fff)
 ![](https://img.shields.io/badge/-TensorFlow-e5cd0c?style=flat-square&logo=TensorFlow&logoColor=fff) |
