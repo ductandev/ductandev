@@ -26,13 +26,13 @@ Mình đang theo đuổi mảng Computer Vision và AI tại [Titkul AI](https:/
 ## Đây là một vài thống kê trên github 😋
 [![ductandev's github stats](https://github-readme-stats.vercel.app/api?username=ductandev&show_icons=true&theme=default)](https://github.com/ductandev/)
 ## Đây là thông tin liên hệ 📣
-[📱 0908246***](https://tel:+84908246***)
+[📱 0908******](https://tel:+84908******)
 
-[📘 Facebook](https://www.facebook.com/nguyen.duc.tan999/)
+[📘 Facebook](https://www.facebook.com//)
 
-[🌍 Website](https://www.facebook.com/nguyen.duc.tan999/) [(still update)]()
+[🌍 Website](https://www.facebook.com//) [(still update)]()
 
-[✉️ Email](mailto:nguyenductan998@gmail.com)
+[✉️ Email](mailto:@gmail.com)
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ductandev&label=Profile%20views&color=0e75b6&style=flat" alt="ductandev" /> </p>
 
