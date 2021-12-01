@@ -26,7 +26,7 @@ Mình đang theo đuổi mảng Computer Vision và AI tại [Titkul AI](https:/
 ## Đây là một vài thống kê trên github 😋
 [![ductandev's github stats](https://github-readme-stats.vercel.app/api?username=ductandev&show_icons=true&theme=default)](https://github.com/ductandev/)
 ## Đây là thông tin liên hệ 📣
-[📱 0908246133](https://tel:+84908246133)
+[📱 0908246***](https://tel:+84908246***)
 
 [📘 Facebook](https://www.facebook.com/nguyen.duc.tan999/)
 
