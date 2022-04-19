@@ -13,9 +13,11 @@ Mình đang theo đuổi mảng Computer Vision và AI tại [Titkul AI](https:/
 Đây là CV của mình [Nguyen Duc Tan](https://drive.google.com/file/d/1Whkj0-S1odgU8y7RGcXeXHUJGVW6LK86/view?usp=sharing)
 
 ![](https://img.shields.io/badge/-Python-333?style=flat-square&logo=Python&logoColor=fff)
+![](https://img.shields.io/badge/-C-c14438?style=flat-square&logo=C&logoColor=fff)
 ![](https://img.shields.io/badge/Docker%20build%F0%9F%90%B3%F0%9F%90%B3-Docker%20%F0%9F%90%B3%F0%9F%90%B3-blue)
-![](https://img.shields.io/badge/-C/C++-c14438?style=flat-square&logo=C&logoColor=fff)
-![](https://img.shields.io/badge/-PyTorch-e34f26?style=flat-square&logo=PyTorch&logoColor=fff)
+![](https://img.shields.io/badge/SQLite3-SQLite3-blue)
+![](https://img.shields.io/badge/MQTT-MQTT-brightgreen)
+![](https://img.shields.io/badge/Numpy-Numpy-red)
 ![](https://img.shields.io/badge/-TensorFlow-e5cd0c?style=flat-square&logo=TensorFlow&logoColor=fff) |
 [<img alt="aicurious.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img alt="ductandev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
