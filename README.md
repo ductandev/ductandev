@@ -4,9 +4,9 @@
 
 
 # Hi 👋, I'm Duc Tan.<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/>
-Mình là Nguyễn Đức Tấn. Mình là cựu sinh viên khóa K-12 [ĐH Công Nghiệp - TPHCM](http://iuh.edu.vn/) 💼
+Mình là Nguyễn Đức Tấn. Mình là cựu sinh viên khóa K-12 ĐH Công Nghiệp - TPHCM 💼
 
-Mình đang theo đuổi mảng Computer Vision và AI tại [Titkul AI](https://titkul.com/) 💻
+Mình đang theo đuổi mảng AI và Computer Vision tại [Titkul AI](https://titkul.com/) 💻
 
 Đam mê của mình là cố gắng thực hiện đam mê 💖
 
@@ -18,10 +18,7 @@ Mình đang theo đuổi mảng Computer Vision và AI tại [Titkul AI](https:/
 ![](https://img.shields.io/badge/SQLite3-SQLite3-blue)
 ![](https://img.shields.io/badge/MQTT-MQTT-brightgreen)
 ![](https://img.shields.io/badge/Numpy-Numpy-red)
-![](https://img.shields.io/badge/-TensorFlow-e5cd0c?style=flat-square&logo=TensorFlow&logoColor=fff) |
-[<img alt="aicurious.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img alt="ductandev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img alt="ductandev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+![](https://img.shields.io/badge/-TensorFlow-e5cd0c?style=flat-square&logo=TensorFlow&logoColor=fff)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ductandev&layout=compact)](#)
 ## Đây là một vài thống kê trên github 😋
