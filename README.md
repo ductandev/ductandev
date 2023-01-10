@@ -4,11 +4,6 @@
 
 
 # Hi 👋, I'm Duc Tan.<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/>
-Mình là Nguyễn Đức Tấn. Mình là cựu sinh viên khóa K-12 ĐH Công Nghiệp - TPHCM 💼
-
-Mình đang theo đuổi mảng AI và Computer Vision tại [Titkul AI](https://titkul.com/) 💻
-
-Đam mê của mình là cố gắng thực hiện đam mê 💖
 
 Đây là CV của mình [Nguyen Duc Tan](https://drive.google.com/file/d/1Whkj0-S1odgU8y7RGcXeXHUJGVW6LK86/view?usp=sharing)
 
