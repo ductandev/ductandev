@@ -15,6 +15,10 @@
 ![](https://img.shields.io/badge/Numpy-Numpy-red)
 ![](https://img.shields.io/badge/-TensorFlow-e5cd0c?style=flat-square&logo=TensorFlow&logoColor=fff)
 
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ductandev&layout=compact)](#)
 ## Đây là một vài thống kê trên github 😋
 [![ductandev's github stats](https://github-readme-stats.vercel.app/api?username=ductandev&show_icons=true&theme=default)](https://github.com/ductandev/)
