@@ -5,7 +5,7 @@
 
 # Hi 👋, I'm Duc Tan.<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/>
 
-Đây là CV của mình [Nguyen Duc Tan](https://drive.google.com/file/d/1Whkj0-S1odgU8y7RGcXeXHUJGVW6LK86/view?usp=sharing)
+This is my CV. [Nguyen Duc Tan](https://drive.google.com/file/d/1Whkj0-S1odgU8y7RGcXeXHUJGVW6LK86/view?usp=sharing)
 
 ![](https://img.shields.io/badge/-Python-333?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-C-c14438?style=flat-square&logo=C&logoColor=fff)
@@ -23,14 +23,14 @@
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ductandev&layout=compact)](#)
-## Đây là một vài thống kê trên github 😋
+## Here are some statistics on github 😋
 [![ductandev's github stats](https://github-readme-stats.vercel.app/api?username=ductandev&show_icons=true&theme=default)](https://github.com/ductandev/)
-## Đây là thông tin liên hệ 📣
+## Here is the contact information 📣
 [📱 0908******](https://tel:+84908******)
 
 [📘 Facebook](https://www.facebook.com//)
 
-[🌍 Website](https://www.facebook.com//) [(still update)]()
+[🌍 Website](https://www.facebook.com//)
 
 [✉️ Email](mailto:@gmail.com)
 
