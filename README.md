@@ -5,7 +5,7 @@
 
 # Hi 👋, I'm Duc Tan.<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/>
 
-This is my CV. [Nguyen Duc Tan](https://drive.google.com/file/d/1Whkj0-S1odgU8y7RGcXeXHUJGVW6LK86/view?usp=sharing)
+This is my old CV. [Nguyen Duc Tan](https://drive.google.com/file/d/1Whkj0-S1odgU8y7RGcXeXHUJGVW6LK86/view?usp=sharing)
 
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
