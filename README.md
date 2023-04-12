@@ -9,6 +9,10 @@ This is my old CV. [Nguyen Duc Tan](https://drive.google.com/file/d/1Whkj0-S1odg
 
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![](https://camo.githubusercontent.com/78d5d911eaeef4c40b76a82004acbaf2afc53e7894d7bfc3b5044b18cf160be9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f51742d3232323232322e7376673f6c6f676f3d7174)
+![](https://camo.githubusercontent.com/5ec29368736433c5bce861d99410fef55e27c81283b061d482d9069b8bfb0e97/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52617370626572727925323050692d4335314134412e7376673f6c6f676f3d5261737062657272792532305069267374796c653d666c6174)
+![](https://camo.githubusercontent.com/7e5070ea83420184a345e03e268d51c236fdeb9a3f367812e8c927023ae779ba/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6574736f6e2d626c75652e7376673f6c6f676f3d4e5649444941267374796c653d666c6174)
+![](https://camo.githubusercontent.com/fba61b8d0855f2291ee9b17b8c158dc70d171bce185fd9c7f74552173cab598f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4f70656e43562d4646303030302e7376673f6c6f676f3d6f70656e6376267374796c653d666c6174)
 ![](https://img.shields.io/badge/-C-c14438?style=flat-square&logo=C&logoColor=fff)
 ![](https://img.shields.io/badge/Docker%20build%F0%9F%90%B3%F0%9F%90%B3-Docker%20%F0%9F%90%B3%F0%9F%90%B3-blue)
 ![](https://img.shields.io/badge/SQLite3-SQLite3-blue)
