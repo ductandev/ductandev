@@ -36,14 +36,11 @@ This is my old CV. [Nguyen Duc Tan](https://drive.google.com/file/d/1jf5Ak9lYIM-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ductandev&layout=compact)](#)
 ## Here are some statistics on github 😋
 [![ductandev's github stats](https://github-readme-stats.vercel.app/api?username=ductandev&show_icons=true&theme=default)](https://github.com/ductandev/)
-## Here is the contact information 📣
-[📱 0908******](https://tel:+84908******)
 
-[📘 Facebook](https://www.facebook.com//)
-
-[🌍 Website](https://www.facebook.com//)
-
-[✉️ Email](mailto:@gmail.com)
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ductandev&label=Profile%20views&color=0e75b6&style=flat" alt="ductandev" /> </p>
 
