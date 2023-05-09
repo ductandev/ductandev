@@ -9,8 +9,8 @@ This is my old CV. [Nguyen Duc Tan](https://drive.google.com/file/d/1jf5Ak9lYIM-
 
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Qt-111111?style=for-the-badge&logo=qt&logoColor=41cd52)
-![](https://img.shields.io/badge/Jestson-111111?style=for-the-badge&logo=nvidia&logoColor=41cd52)
+![](https://img.shields.io/badge/Qt-2C2B29?style=for-the-badge&logo=qt&logoColor=41cd52)
+![](https://img.shields.io/badge/Jestson-2C2B29?style=for-the-badge&logo=nvidia&logoColor=41cd52)
 ![](https://img.shields.io/badge/raspberrypi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![](https://img.shields.io/badge/opencv-EE0000?style=for-the-badge&logo=opencv&logoColor=white)
 ![](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -21,7 +21,7 @@ This is my old CV. [Nguyen Duc Tan](https://drive.google.com/file/d/1jf5Ak9lYIM-
 
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![](https://img.shields.io/badge/VS_Code-2C2B29?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
