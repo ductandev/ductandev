@@ -62,4 +62,4 @@ This is my old CV. [Nguyen Duc Tan](https://drive.google.com/file/d/1jf5Ak9lYIM-
 
 <!-- https://github.com/ductandev/ductandev/blob/output/github-contribution-grid-snake.gif?raw=true -->
 
-=======================================<img src="https://github.githubassets.com/images/mona-loading-default.gif" width="50"/>=========================================
+======================================<img src="https://github.githubassets.com/images/mona-loading-default.gif" width="50"/>========================================
