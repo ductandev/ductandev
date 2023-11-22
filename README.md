@@ -56,10 +56,9 @@ This is my old CV. [Nguyen Duc Tan](https://drive.google.com/file/d/1jf5Ak9lYIM-
 [linkedin]: https://
 
 <h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
-<p align="center">
-  <img src="https://github.com/ductandev/ductandev/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-
-<!-- https://github.com/ductandev/ductandev/blob/output/github-contribution-grid-snake.gif?raw=true -->
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ductandev/ductandev/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ductandev/ductandev/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/ductandev/ductandev/blob/output/github-contribution-grid-snake.svg">
+</picture>
 ======================================<img src="https://github.githubassets.com/images/mona-loading-default.gif" width="50"/>========================================
