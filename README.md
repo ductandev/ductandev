@@ -66,4 +66,6 @@ This is my old CV. [Nguyen Duc Tan](https://drive.google.com/file/d/1jf5Ak9lYIM-
 
 
 
-======================================<img src="https://github.githubassets.com/images/mona-loading-default.gif" width="50"/>========================================
+<p align="center">
+    <img src="https://github.githubassets.com/images/mona-loading-default.gif" width="50"/>
+</p>
