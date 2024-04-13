@@ -41,7 +41,9 @@ This is my old CV. [Nguyen Duc Tan](https://drive.google.com/file/d/1jf5Ak9lYIM-
 ![](https://img.shields.io/badge/NestJS-2C2B29?style=for-the-badge&logo=NestJS&logoColor=E0234E)
 ![](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 <img class="avatar mr-2 d-none d-md-block" alt="Owner avatar" src="https://avatars.githubusercontent.com/u/9338635?s=48&amp;v=4" width="24" height="24">
-![](https://img.shields.io/badge/pug-A86454?style=for-the-badge&logoColor=white) 
+![](https://img.shields.io/badge/pug-A86454?style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/digitalocean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![](https://img.shields.io/badge/googlecloud-404D59?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ductandev&layout=compact)](#)
 ## Here are some statistics on github 😋
