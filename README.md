@@ -1,7 +1,4 @@
-![image](https://user-images.githubusercontent.com/42485856/131239158-c0e7452f-bf08-4ac8-aafd-73a4f0f7422a.png)
-
-
-
+![image](https://github.com/ductandev/ductandev/assets/42485856/815bdff9-6b88-4bf9-9ad1-770bad3e33a3)
 
 # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">! I'm Duc Tan.<img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/>
 
