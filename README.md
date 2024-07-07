@@ -42,6 +42,15 @@ This is my old CV. [Nguyen Duc Tan](https://drive.google.com/file/d/1jf5Ak9lYIM-
 ![](https://img.shields.io/badge/digitalocean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 ![](https://img.shields.io/badge/googlecloud-404D59?style=for-the-badge&logo=googlecloud&logoColor=white)
 
+
+<h1 align="center">
+  <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6a7.png" alt="🚧">
+</h1>
+
+
+
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ductandev&layout=compact)](#)
 ## Here are some statistics on github 😋
 [![ductandev's github stats](https://github-readme-stats.vercel.app/api?username=ductandev&show_icons=true&theme=default)](https://github.com/ductandev/)
