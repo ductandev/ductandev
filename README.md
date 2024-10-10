@@ -52,8 +52,12 @@ This is my old CV. [Nguyen Duc Tan](https://drive.google.com/file/d/1n9iLTLfp-Ki
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ductandev&layout=compact)](#)
+![tải xuống](https://github.com/user-attachments/assets/61a8b9ee-5353-4588-b8d0-a7d9799cc45e)
+
+
 ## Here are some statistics on github 😋
 [![ductandev's github stats](https://github-readme-stats.vercel.app/api?username=ductandev&show_icons=true&theme=default)](https://github.com/ductandev/)
+
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
