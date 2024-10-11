@@ -53,6 +53,7 @@ This is my old CV. [Nguyen Duc Tan](https://drive.google.com/file/d/1n9iLTLfp-Ki
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ductandev&layout=compact)](#)
 ![tải xuống](https://github.com/user-attachments/assets/61a8b9ee-5353-4588-b8d0-a7d9799cc45e)
+[More imformation about me !](https://login.cybersoft.edu.vn/infor-profile?code=IYVgTADAxgzAHAIwLRgGxhEgLATgchDAUyTiigHYj0c4AzIkIA)
 
 
 ## Here are some statistics on github 😋
