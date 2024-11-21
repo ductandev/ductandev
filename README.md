@@ -64,24 +64,25 @@ This is my old CV. [Nguyen Duc Tan](https://drive.google.com/file/d/1n9iLTLfp-Ki
     <img src="https://skillicons.dev/icons?i=prisma,sequelize&theme=dark" />
   <h3>Frameworks/Libraries</h3>
     <img src="https://skillicons.dev/icons?i=spring&theme=light" />
-    <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,react,redux,bootstrap,sass,tailwind&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=nestjs,graphql,nodejs,express,react,redux,bootstrap,sass,tailwind&theme=dark" />
     <img src="https://github.com/user-attachments/assets/d12566d8-3090-4480-8dc2-94b613aa2ebc" width="48px" height="48px" />
     <img src="https://skillicons.dev/icons?i=jquery,opencv,sklearn,pytorch&theme=dark" />
   <h3>Tools</h3>
-    <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,githubactions,qt,rabbitmq,arduino,bash,blender,devto,graphql,grafana,gmail,idea,jenkins,jest,maven,npm,ps,powershell,prometheus,twitter,vite,windows,discord,kafka,gradle,aws,gcp,linux,ubuntu,postman,anaconda,pycharm,idea,eclipse,vscode,cloudflare,figma,notion,stackoverflow,vercel,vim,tensorflow,raspberrypi,graphql&theme=dark" />
+    <img src="https://github.com/user-attachments/assets/525a1997-7e1d-4b6d-abe5-1b2d32565de3" width="48px" height="48px" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,postman,git,github,gitlab,githubactions,rabbitmq,kafka,bash,powershell,blender,grafana,prometheus&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=gmail,vercel,jenkins,jest,maven,npm,ps,twitter,vite,discord,devto,gradle,linux,ubuntu,windows,idea,vscode,eclipse,cloudflare,figma,notion,stackoverflow,qt,anaconda,pycharm,vim,tensorflow,raspberrypi,arduino&theme=dark" />
+
+  
 </div>
 
-
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ductandev&layout=compact)](#)
-![tải xuống](https://github.com/user-attachments/assets/61a8b9ee-5353-4588-b8d0-a7d9799cc45e)
-[More imformation about me !](https://login.cybersoft.edu.vn/infor-profile?code=IYVgTADAxgzAHAIwLRgGxhEgLATgchDAUyTiigHYj0c4AzIkIA)
-
-
 ## Here are some statistics on github 😋
-[![ductandev's github stats](https://github-readme-stats.vercel.app/api?username=ductandev&show_icons=true&theme=default)](https://github.com/ductandev/)
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=ductandev&show_icons=true&theme=default" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ductandev&layout=compact" alt="languages graph"  />
+  <img src="https://github.com/user-attachments/assets/61a8b9ee-5353-4588-b8d0-a7d9799cc45e" alt="QR"  />
+  
+  [More imformation about me !](https://login.cybersoft.edu.vn/infor-profile?code=IYVgTADAxgzAHAIwLRgGxhEgLATgchDAUyTiigHYj0c4AzIkIA)
+</div>
 
 
 ## 🔗 Links
