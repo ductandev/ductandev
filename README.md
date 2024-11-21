@@ -51,6 +51,30 @@ This is my old CV. [Nguyen Duc Tan](https://drive.google.com/file/d/1n9iLTLfp-Ki
 
 
 
+<div align="left">
+  <h3>Programming Languages</h3>
+    <img src="https://skillicons.dev/icons?i=java&theme=light" />
+    <img src="https://skillicons.dev/icons?i=js,typescript,html,css,c,python,pug&theme=dark" />
+  <h3>Database</h3>
+    <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+    <img src="https://github.com/user-attachments/assets/328a522e-4c74-4a81-b768-4477b7c125a2" width="48px" height="48px" />
+    <img src="https://github.com/user-attachments/assets/c47ad701-9112-48f9-8325-3512ae3e3f72" width="48px" height="48px" />
+    <img src="https://skillicons.dev/icons?i=redis,mongodb,postgres,firebase,elasticsearch,sqlite&theme=dark" />
+  <h3>ORM</h3>
+    <img src="https://skillicons.dev/icons?i=prisma,sequelize&theme=dark" />
+  <h3>Frameworks/Libraries</h3>
+    <img src="https://skillicons.dev/icons?i=spring&theme=light" />
+    <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,react,redux,bootstrap,sass,tailwind&theme=dark" />
+    <img src="https://github.com/user-attachments/assets/d12566d8-3090-4480-8dc2-94b613aa2ebc" width="48px" height="48px" />
+    <img src="https://skillicons.dev/icons?i=jquery,opencv,sklearn,pytorch&theme=dark" />
+  <h3>Tools</h3>
+    <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,githubactions,qt,rabbitmq,arduino,bash,blender,devto,graphql,grafana,gmail,idea,jenkins,jest,maven,npm,ps,powershell,prometheus,twitter,vite,windows,discord,kafka,gradle,aws,gcp,linux,ubuntu,postman,anaconda,pycharm,idea,eclipse,vscode,cloudflare,figma,notion,stackoverflow,vercel,vim,tensorflow,raspberrypi,graphql&theme=dark" />
+</div>
+
+
+
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ductandev&layout=compact)](#)
 ![tải xuống](https://github.com/user-attachments/assets/61a8b9ee-5353-4588-b8d0-a7d9799cc45e)
 [More imformation about me !](https://login.cybersoft.edu.vn/infor-profile?code=IYVgTADAxgzAHAIwLRgGxhEgLATgchDAUyTiigHYj0c4AzIkIA)
