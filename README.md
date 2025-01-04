@@ -2,6 +2,7 @@
 
 # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">! I'm Duc Tan.<img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/>
 
+This is my CV. [Nguyen Duc Tan](https://drive.google.com/file/d/1pCU_gqT4ZQu-dSQ78NfFbeZjEKYPiQSe/view?usp=sharing) <br>
 This is my old CV. [Nguyen Duc Tan](https://drive.google.com/file/d/1n9iLTLfp-KiIpICeGHqqtcItK6p74rVZ/view?usp=sharing)
 
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
