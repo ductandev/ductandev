@@ -1,9 +1,11 @@
-![image](https://github.com/ductandev/ductandev/assets/42485856/815bdff9-6b88-4bf9-9ad1-770bad3e33a3)
+<!-- ![image](https://github.com/ductandev/ductandev/assets/42485856/815bdff9-6b88-4bf9-9ad1-770bad3e33a3) -->
+![rounded-in-photoretrica](https://github.com/user-attachments/assets/4b62dc8d-2d04-42d1-b874-85ae20ff4aeb)
+
 
 # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">! I'm Duc Tan.<img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/>
 
-This is my CV. [Nguyen Duc Tan](https://drive.google.com/file/d/1pCU_gqT4ZQu-dSQ78NfFbeZjEKYPiQSe/view?usp=sharing) <br>
-This is my old CV. [Nguyen Duc Tan](https://drive.google.com/file/d/1n9iLTLfp-KiIpICeGHqqtcItK6p74rVZ/view?usp=sharing)
+[Nguyen Duc Tan](https://drive.google.com/file/d/1pCU_gqT4ZQu-dSQ78NfFbeZjEKYPiQSe/view?usp=sharing) This is my CV     - to 04/01/2025. <br>
+[Nguyen Duc Tan](https://drive.google.com/file/d/1n9iLTLfp-KiIpICeGHqqtcItK6p74rVZ/view?usp=sharing) This is my old CV - to 01/04/2022. 
 
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
