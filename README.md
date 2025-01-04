@@ -6,8 +6,9 @@
 
 | Resume | Description     | Update Date                       |
 | :-------- | :------- | :-------------------------------- |
-| [Nguyen Duc Tan](https://drive.google.com/file/d/1pCU_gqT4ZQu-dSQ78NfFbeZjEKYPiQSe/view?usp=sharing) | `This is my CV` | **to 04/01/2025** |
+| [Nguyen Duc Tan](https://drive.google.com/file/d/1pCU_gqT4ZQu-dSQ78NfFbeZjEKYPiQSe/view?usp=sharing) | `This is my now CV` | **to 04/01/2025** |
 | [Nguyen Duc Tan](https://drive.google.com/file/d/1n9iLTLfp-KiIpICeGHqqtcItK6p74rVZ/view?usp=sharing) | `This is my old CV` | **to 01/04/2022** |
+| [Owner Devkeys keycap](https://www.instagram.com/devkeycaps/) | `Startups keycaps handmade` | **to 09/10/2023** |
 
 <!--
 [Nguyen Duc Tan](https://drive.google.com/file/d/1pCU_gqT4ZQu-dSQ78NfFbeZjEKYPiQSe/view?usp=sharing) This is my CV     - to 04/01/2025. <br>
