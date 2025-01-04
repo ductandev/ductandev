@@ -4,8 +4,15 @@
 
 # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">! I'm Duc Tan.<img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/>
 
+| Resume | Description     | Update Date                       |
+| :-------- | :------- | :-------------------------------- |
+| [Nguyen Duc Tan](https://drive.google.com/file/d/1pCU_gqT4ZQu-dSQ78NfFbeZjEKYPiQSe/view?usp=sharing) | `This is my CV` | **to 04/01/2025** |
+| [Nguyen Duc Tan](https://drive.google.com/file/d/1n9iLTLfp-KiIpICeGHqqtcItK6p74rVZ/view?usp=sharing) | `This is my old CV` | **to 01/04/2022** |
+
+<!--
 [Nguyen Duc Tan](https://drive.google.com/file/d/1pCU_gqT4ZQu-dSQ78NfFbeZjEKYPiQSe/view?usp=sharing) This is my CV     - to 04/01/2025. <br>
 [Nguyen Duc Tan](https://drive.google.com/file/d/1n9iLTLfp-KiIpICeGHqqtcItK6p74rVZ/view?usp=sharing) This is my old CV - to 01/04/2022. 
+-->
 
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
