@@ -88,10 +88,10 @@
 </div>
 
 ## Here are some statistics on github 😋
-<div>
+<!-- <div>
   <img src="https://github-readme-stats.vercel.app/api?username=ductandev&show_icons=true&theme=default" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ductandev&layout=compact" alt="languages graph" />
-</div>
+</div> -->
 
 
 <div>
