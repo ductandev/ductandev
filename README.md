@@ -4,11 +4,13 @@
 
 # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">! I'm Duc Tan.<img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/>
 
+<!--
 | Resume | Description     | Update Date                       |
 | :-------- | :------- | :-------------------------------- |
 | [Nguyen Duc Tan](https://drive.google.com/file/d/1pCU_gqT4ZQu-dSQ78NfFbeZjEKYPiQSe/view?usp=sharing) | `This is my now CV` | **to 04/01/2025** |
 | [Nguyen Duc Tan](https://drive.google.com/file/d/1n9iLTLfp-KiIpICeGHqqtcItK6p74rVZ/view?usp=sharing) | `This is my old CV` | **to 01/04/2022** |
 | [Owner Devkeys keycap](https://www.instagram.com/devkeycaps/) | `Startups keycaps handmade` | **to 09/10/2023** |
+-->
 
 <!--
 [Nguyen Duc Tan](https://drive.google.com/file/d/1pCU_gqT4ZQu-dSQ78NfFbeZjEKYPiQSe/view?usp=sharing) This is my CV     - to 04/01/2025. <br>
@@ -93,9 +95,9 @@
 
 
 <div>
-  <img src="https://github.com/user-attachments/assets/61a8b9ee-5353-4588-b8d0-a7d9799cc45e" alt="QR"  />
+  <!-- <img src="https://github.com/user-attachments/assets/61a8b9ee-5353-4588-b8d0-a7d9799cc45e" alt="QR"  /> -->
   
-  [More imformation about me !](https://login.cybersoft.edu.vn/infor-profile?code=IYVgTADAxgzAHAIwLRgGxhEgLATgchDAUyTiigHYj0c4AzIkIA)
+  <!--[More imformation about me !](https://login.cybersoft.edu.vn/infor-profile?code=IYVgTADAxgzAHAIwLRgGxhEgLATgchDAUyTiigHYj0c4AzIkIA)-->
 </div>
 
 
