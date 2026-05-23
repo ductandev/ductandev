@@ -101,14 +101,11 @@
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ductandev&label=Profile%20views&color=0e75b6&style=flat" alt="ductandev" /></p>
-
-[website]: https://
-[linkedin]: https://
 
 <h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
 <p align="center">
