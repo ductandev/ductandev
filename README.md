@@ -17,6 +17,7 @@
 [Nguyen Duc Tan](https://drive.google.com/file/d/1n9iLTLfp-KiIpICeGHqqtcItK6p74rVZ/view?usp=sharing) This is my old CV - to 01/04/2022. 
 -->
 
+<!--
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Qt-2C2B29?style=for-the-badge&logo=qt&logoColor=41cd52)
@@ -54,52 +55,49 @@
 ![](https://img.shields.io/badge/pug-A86454?style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/digitalocean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 ![](https://img.shields.io/badge/googlecloud-404D59?style=for-the-badge&logo=googlecloud&logoColor=white)
+-->
 
-
+<!--
 <h1 align="center">
   <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6a7.png" alt="🚧">
 </h1>
-
-
-
+-->
 
 
 <div align="left">
   <h3>Programming Languages</h3>
-    <img src="https://skillicons.dev/icons?i=java&theme=light" />
-    <img src="https://skillicons.dev/icons?i=js,typescript,html,css,c,python,pug&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=typescript,java,python,js,html,css,c&theme=light" />
   <h3>Database</h3>
-    <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
-    <img src="https://github.com/user-attachments/assets/328a522e-4c74-4a81-b768-4477b7c125a2" width="48px" height="48px" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=light" />
     <img src="https://github.com/user-attachments/assets/c47ad701-9112-48f9-8325-3512ae3e3f72" width="48px" height="48px" />
-    <img src="https://skillicons.dev/icons?i=redis,mongodb,postgres,firebase,elasticsearch,sqlite&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=mongodb,redis,elasticsearch&theme=light" />
   <h3>ORM</h3>
     <img src="https://skillicons.dev/icons?i=prisma,sequelize&theme=dark" />
   <h3>Frameworks/Libraries</h3>
-    <img src="https://skillicons.dev/icons?i=spring&theme=light" />
-    <img src="https://skillicons.dev/icons?i=nestjs,graphql,nodejs,express,react,redux,bootstrap,sass,tailwind&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=react,nestjs,spring,graphql,nodejs,express,redux,bootstrap,sass,tailwind&theme=light" />
     <img src="https://github.com/user-attachments/assets/d12566d8-3090-4480-8dc2-94b613aa2ebc" width="48px" height="48px" />
-    <img src="https://skillicons.dev/icons?i=jquery,opencv,sklearn,pytorch&theme=dark" />
   <h3>Tools</h3>
-    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,postman,git,github,gitlab,githubactions,rabbitmq,kafka,bash,powershell,nginx,grafana,prometheus,vercel,jenkins,jest,maven,npm,ps,twitter,vite,discord,devto,blender,gradle,linux,ubuntu,windows,idea,vscode,eclipse,cloudflare,figma,notion,stackoverflow,qt,anaconda,pycharm,vim,tensorflow,raspberrypi,arduino,matlab&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=docker,postman,git,github,gitlab,githubactions,rabbitmq,kafka,nginx,grafana,prometheus,vercel,jenkins,vite,blender,ubuntu,idea,vscode,figma,notion&theme=light" />
     <br>
-  <img src="https://github.com/user-attachments/assets/525a1997-7e1d-4b6d-abe5-1b2d32565de3" width="48px" height="48px" />
-  <img src="https://skillicons.dev/icons?i=instagram,linkedin,gmail,threejs,vue&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp&theme=light" />
+    <img src="https://github.com/user-attachments/assets/525a1997-7e1d-4b6d-abe5-1b2d32565de3" width="48px" height="48px" />
+    <img src="https://skillicons.dev/icons?i=linkedin,gmail&theme=light" />
 </div>
 
+
+<!-- 
 ## Here are some statistics on github 😋
-<!-- <div>
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=ductandev&show_icons=true&theme=default" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ductandev&layout=compact" alt="languages graph" />
-</div> -->
-
-
-<div>
-  <!-- <img src="https://github.com/user-attachments/assets/61a8b9ee-5353-4588-b8d0-a7d9799cc45e" alt="QR"  /> -->
-  
-  <!--[More imformation about me !](https://login.cybersoft.edu.vn/infor-profile?code=IYVgTADAxgzAHAIwLRgGxhEgLATgchDAUyTiigHYj0c4AzIkIA)-->
 </div>
 
+<div>
+  <img src="https://github.com/user-attachments/assets/61a8b9ee-5353-4588-b8d0-a7d9799cc45e" alt="QR"  />
+  
+  [More imformation about me !](https://login.cybersoft.edu.vn/infor-profile?code=IYVgTADAxgzAHAIwLRgGxhEgLATgchDAUyTiigHYj0c4AzIkIA)
+</div>
+-->
 
 
 ## 🔗 Links
@@ -107,10 +105,9 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=ductandev&label=Profile%20views&color=0e75b6&style=flat" alt="ductandev" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=ductandev&label=Profile%20views&color=0e75b6&style=flat" alt="ductandev" /></p>
 
 [website]: https://
-[twitter]: https://twitter.com/ductandev
 [linkedin]: https://
 
 <h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
